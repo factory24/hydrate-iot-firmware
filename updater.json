@@ -2,6 +2,6 @@
   "versionCode": 2,
   "versionName": "1.1",
   "fileName": "test_firmware.bin",
-  "url": "",
+  "url": "https://github.com/factory24/hydrate-iot-firmware/raw/main/test_firmware.bin",
   "size": 227200
 }
