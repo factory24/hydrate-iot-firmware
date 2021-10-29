@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "fileName": "test_firmware.bin",
-  "url": "https://raw.githubusercontent.com/factory24/hydrate-iot-firmware/main/test_firmware.bin"
+  "fileName": "firmware_v1.1.bin",
+  "url": "https://raw.githubusercontent.com/factory24/hydrate-iot-firmware/main/offline/firmware_v1.1.bin"
 }
