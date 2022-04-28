@@ -1,4 +1,4 @@
 @echo off
 git add --all
-git commit -am "auto-commit.bat time"
+git commit -am "create firmware"
 git push -u origin main
